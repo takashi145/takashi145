@@ -1,5 +1,7 @@
 title: takashi145のプロフィール
-author: takashi145
 theme: jekyll-theme-minimal
 markdown: kramdown
-avatar: https://avatars.githubusercontent.com/u/84027833?s=400&u=2a47f99db63cdd16478f99daa60b84978ab44c85&v=4
+logo: https://avatars.githubusercontent.com/u/84027833
+show_downloads: false
+plugins:
+- jekyll-sitemap
