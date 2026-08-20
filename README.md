@@ -1,9 +1,9 @@
 ## Hi there 👋
 
-<picture>
+<!-- <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://takashi145.github.io/github-stats/langs-dark.svg">
   <img src="https://takashi145.github.io/github-stats/langs-light.svg">
-</picture>
+</picture> -->
 
 <!--
 **takashi145/takashi145** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
